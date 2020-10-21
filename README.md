@@ -1,2 +1,2 @@
 # Divide-and-Conquer-Sorting-and-Searching-and-Randomized-Algorithms
-Implementing Algorithms in python and C
+Implementing Algorithms in python and cpp
